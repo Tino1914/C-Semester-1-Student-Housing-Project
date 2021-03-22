@@ -1,0 +1,62 @@
+C:\Users\Noah\source\repos\MySQL Server Manager\MySQL Server Manager\bin\Debug\MySQL Server Manager.exe.config
+C:\Users\Noah\source\repos\MySQL Server Manager\MySQL Server Manager\bin\Debug\MySQL Server Manager.exe
+C:\Users\Noah\source\repos\MySQL Server Manager\MySQL Server Manager\bin\Debug\MySQL Server Manager.pdb
+C:\Users\Noah\source\repos\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.csprojAssemblyReference.cache
+C:\Users\Noah\source\repos\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.MainForm.resources
+C:\Users\Noah\source\repos\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.Properties.Resources.resources
+C:\Users\Noah\source\repos\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.csproj.GenerateResource.cache
+C:\Users\Noah\source\repos\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.exe
+C:\Users\Noah\source\repos\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.pdb
+C:\Users\Noah\source\repos\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.ConnectForm.resources
+C:\Users\Noah\source\repos\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.ProgressForm.resources
+C:\Users\Noah\source\repos\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.StudentList.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\MySQL Server Manager\bin\Debug\MySQL Server Manager.exe.config
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\MySQL Server Manager\bin\Debug\MySQL Server Manager.exe
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\MySQL Server Manager\bin\Debug\MySQL Server Manager.pdb
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.csprojAssemblyReference.cache
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.ConnectForm.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.MainForm.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.ProgressForm.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.Properties.Resources.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.StudentList.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.csproj.GenerateResource.cache
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.exe
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.pdb
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.UpdateInfoForm.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.RuleForm.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.RuleEditForm.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.RuleEditFormMOD.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\bin\Debug\MySQL Server Manager.exe.config
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\bin\Debug\MySQL Server Manager.exe
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\bin\Debug\MySQL Server Manager.pdb
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.csprojAssemblyReference.cache
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.ConnectForm.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.MainForm.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.ProgressForm.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.Properties.Resources.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.RuleEditFormMOD.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.RuleEditForm.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.RuleForm.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.StudentList.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.UpdateInfoForm.resources
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.csproj.GenerateResource.cache
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.exe
+C:\Users\Noah\Desktop\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.pdb
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\bin\Debug\MySQL Server Manager.exe.config
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\bin\Debug\MySQL Server Manager.exe
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\bin\Debug\MySQL Server Manager.pdb
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.csprojAssemblyReference.cache
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.ConnectForm.resources
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.MainForm.resources
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.ProgressForm.resources
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.Properties.Resources.resources
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.RuleEditFormMOD.resources
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.RuleEditForm.resources
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.RuleForm.resources
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.StudentList.resources
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL_Server_Manager.UpdateInfoForm.resources
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.csproj.GenerateResource.cache
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.csproj.CoreCompileInputs.cache
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.exe
+C:\Users\Noah\advanced-project---pcs03\MySQL Server Manager\MySQL Server Manager\obj\Debug\MySQL Server Manager.pdb

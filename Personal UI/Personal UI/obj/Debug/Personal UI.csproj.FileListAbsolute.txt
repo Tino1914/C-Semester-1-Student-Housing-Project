@@ -1,0 +1,37 @@
+C:\Users\Noah\source\repos\Personal UI\Personal UI\bin\Debug\Personal UI.exe.config
+C:\Users\Noah\source\repos\Personal UI\Personal UI\bin\Debug\Personal UI.exe
+C:\Users\Noah\source\repos\Personal UI\Personal UI\bin\Debug\Personal UI.pdb
+C:\Users\Noah\source\repos\Personal UI\Personal UI\obj\Debug\Personal UI.csprojAssemblyReference.cache
+C:\Users\Noah\source\repos\Personal UI\Personal UI\obj\Debug\Personal_UI.LoginForm.resources
+C:\Users\Noah\source\repos\Personal UI\Personal UI\obj\Debug\Personal_UI.Properties.Resources.resources
+C:\Users\Noah\source\repos\Personal UI\Personal UI\obj\Debug\Personal UI.csproj.GenerateResource.cache
+C:\Users\Noah\source\repos\Personal UI\Personal UI\obj\Debug\Personal UI.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\Personal UI\Personal UI\obj\Debug\Personal UI.exe
+C:\Users\Noah\source\repos\Personal UI\Personal UI\obj\Debug\Personal UI.pdb
+C:\Users\Noah\source\repos\Personal UI\Personal UI\obj\Debug\Personal_UI.MainForm.resources
+C:\Users\Noah\Desktop\Personal UI\Personal UI\bin\Debug\Personal UI.exe.config
+C:\Users\Noah\Desktop\Personal UI\Personal UI\bin\Debug\Personal UI.exe
+C:\Users\Noah\Desktop\Personal UI\Personal UI\bin\Debug\Personal UI.pdb
+C:\Users\Noah\Desktop\Personal UI\Personal UI\obj\Debug\Personal UI.csprojAssemblyReference.cache
+C:\Users\Noah\Desktop\Personal UI\Personal UI\obj\Debug\Personal_UI.LoginForm.resources
+C:\Users\Noah\Desktop\Personal UI\Personal UI\obj\Debug\Personal_UI.MainForm.resources
+C:\Users\Noah\Desktop\Personal UI\Personal UI\obj\Debug\Personal_UI.Properties.Resources.resources
+C:\Users\Noah\Desktop\Personal UI\Personal UI\obj\Debug\Personal UI.csproj.GenerateResource.cache
+C:\Users\Noah\Desktop\Personal UI\Personal UI\obj\Debug\Personal UI.exe
+C:\Users\Noah\Desktop\Personal UI\Personal UI\obj\Debug\Personal UI.pdb
+C:\Users\Noah\Desktop\Personal UI\Personal UI\obj\Debug\Personal_UI.UpdateInfoForm.resources
+C:\Users\Noah\Desktop\Personal UI\Personal UI\obj\Debug\Personal_UI.Rules.resources
+C:\Users\Noah\Desktop\Personal UI\Personal UI\obj\Debug\Personal UI.csproj.CoreCompileInputs.cache
+C:\Users\Noah\advanced-project---pcs03\Personal UI\Personal UI\bin\Debug\Personal UI.exe.config
+C:\Users\Noah\advanced-project---pcs03\Personal UI\Personal UI\bin\Debug\Personal UI.exe
+C:\Users\Noah\advanced-project---pcs03\Personal UI\Personal UI\bin\Debug\Personal UI.pdb
+C:\Users\Noah\advanced-project---pcs03\Personal UI\Personal UI\obj\Debug\Personal UI.csprojAssemblyReference.cache
+C:\Users\Noah\advanced-project---pcs03\Personal UI\Personal UI\obj\Debug\Personal_UI.LoginForm.resources
+C:\Users\Noah\advanced-project---pcs03\Personal UI\Personal UI\obj\Debug\Personal_UI.MainForm.resources
+C:\Users\Noah\advanced-project---pcs03\Personal UI\Personal UI\obj\Debug\Personal_UI.Properties.Resources.resources
+C:\Users\Noah\advanced-project---pcs03\Personal UI\Personal UI\obj\Debug\Personal_UI.Rules.resources
+C:\Users\Noah\advanced-project---pcs03\Personal UI\Personal UI\obj\Debug\Personal_UI.UpdateInfoForm.resources
+C:\Users\Noah\advanced-project---pcs03\Personal UI\Personal UI\obj\Debug\Personal UI.csproj.GenerateResource.cache
+C:\Users\Noah\advanced-project---pcs03\Personal UI\Personal UI\obj\Debug\Personal UI.csproj.CoreCompileInputs.cache
+C:\Users\Noah\advanced-project---pcs03\Personal UI\Personal UI\obj\Debug\Personal UI.exe
+C:\Users\Noah\advanced-project---pcs03\Personal UI\Personal UI\obj\Debug\Personal UI.pdb

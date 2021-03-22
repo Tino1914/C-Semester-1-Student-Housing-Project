@@ -1,0 +1,62 @@
+C:\Users\Noah\source\repos\Student UI\Student UI\bin\Debug\Student UI.exe.config
+C:\Users\Noah\source\repos\Student UI\Student UI\bin\Debug\Student UI.exe
+C:\Users\Noah\source\repos\Student UI\Student UI\bin\Debug\Student UI.pdb
+C:\Users\Noah\source\repos\Student UI\Student UI\obj\Debug\Student UI.csprojAssemblyReference.cache
+C:\Users\Noah\source\repos\Student UI\Student UI\obj\Debug\Student_UI.Properties.Resources.resources
+C:\Users\Noah\source\repos\Student UI\Student UI\obj\Debug\Student UI.csproj.GenerateResource.cache
+C:\Users\Noah\source\repos\Student UI\Student UI\obj\Debug\Student UI.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\Student UI\Student UI\obj\Debug\Student UI.exe
+C:\Users\Noah\source\repos\Student UI\Student UI\obj\Debug\Student UI.pdb
+C:\Users\Noah\source\repos\Student UI\Student UI\obj\Debug\Student_UI.Form1.resources
+C:\Users\Noah\source\repos\Student UI\Student UI\obj\Debug\Student_UI.Rules.resources
+C:\Users\Noah\source\repos\Student UI\Student UI\obj\Debug\Student_UI.Authentication.resources
+C:\Users\Noah\source\repos\Student UI\Student UI\obj\Debug\Student_UI.StudentList.resources
+C:\Users\Noah\source\repos\Student UI\Student UI\obj\Debug\Student_UI.AdminLog.resources
+C:\Users\Noah\source\repos\Student UI\Student UI\obj\Debug\Student_UI.ChangeRank.resources
+D:\Study\Advanced Phase\v0.1.5\Student UI\Student UI\obj\Debug\Student UI.csprojAssemblyReference.cache
+D:\Study\Advanced Phase\v0.1.5\Student UI\Student UI\obj\Debug\Student_UI.AdminLog.resources
+D:\Study\Advanced Phase\v0.1.5\Student UI\Student UI\obj\Debug\Student_UI.Authentication.resources
+D:\Study\Advanced Phase\v0.1.5\Student UI\Student UI\obj\Debug\Student_UI.ChangeRank.resources
+D:\Study\Advanced Phase\v0.1.5\Student UI\Student UI\obj\Debug\Student_UI.Rules.resources
+D:\Study\Advanced Phase\v0.1.5\Student UI\Student UI\obj\Debug\Student_UI.Form1.resources
+D:\Study\Advanced Phase\v0.1.5\Student UI\Student UI\obj\Debug\Student_UI.Properties.Resources.resources
+D:\Study\Advanced Phase\v0.1.5\Student UI\Student UI\obj\Debug\Student_UI.StudentList.resources
+D:\Study\Advanced Phase\v0.1.5\Student UI\Student UI\obj\Debug\Student UI.csproj.GenerateResource.cache
+D:\Study\Advanced Phase\v0.1.5\Student UI\Student UI\obj\Debug\Student UI.csproj.CoreCompileInputs.cache
+D:\Study\Advanced Phase\v0.1.5\Student UI\Student UI\obj\Debug\Student UI.exe
+D:\Study\Advanced Phase\v0.1.5\Student UI\Student UI\obj\Debug\Student UI.pdb
+D:\Study\Advanced Phase\v0.1.5\Student UI\Student UI\bin\Debug\Student UI.exe.config
+D:\Study\Advanced Phase\v0.1.5\Student UI\Student UI\bin\Debug\Student UI.exe
+D:\Study\Advanced Phase\v0.1.5\Student UI\Student UI\bin\Debug\Student UI.pdb
+C:\Users\Noah\Desktop\Student UI\Student UI\obj\Debug\Student UI.csprojAssemblyReference.cache
+C:\Users\Noah\Desktop\Student UI\Student UI\obj\Debug\Student_UI.AdminLog.resources
+C:\Users\Noah\Desktop\Student UI\Student UI\obj\Debug\Student_UI.Authentication.resources
+C:\Users\Noah\Desktop\Student UI\Student UI\obj\Debug\Student_UI.Rules.resources
+C:\Users\Noah\Desktop\Student UI\Student UI\obj\Debug\Student_UI.Form1.resources
+C:\Users\Noah\Desktop\Student UI\Student UI\obj\Debug\Student_UI.Properties.Resources.resources
+C:\Users\Noah\Desktop\Student UI\Student UI\obj\Debug\Student_UI.StudentList.resources
+C:\Users\Noah\Desktop\Student UI\Student UI\obj\Debug\Student UI.csproj.GenerateResource.cache
+C:\Users\Noah\Desktop\Student UI\Student UI\obj\Debug\Student UI.exe
+C:\Users\Noah\Desktop\Student UI\Student UI\obj\Debug\Student UI.pdb
+C:\Users\Noah\Desktop\Student UI\Student UI\bin\Debug\Student UI.exe.config
+C:\Users\Noah\Desktop\Student UI\Student UI\bin\Debug\Student UI.exe
+C:\Users\Noah\Desktop\Student UI\Student UI\bin\Debug\Student UI.pdb
+C:\Users\Noah\Desktop\Student UI\Student UI\obj\Debug\Student_UI.ConnectForm.resources
+C:\Users\Noah\Desktop\Student UI\Student UI\obj\Debug\Student_UI.UpdateInfoForm.resources
+C:\Users\Noah\Desktop\Student UI\Student UI\obj\Debug\Student UI.csproj.CoreCompileInputs.cache
+C:\Users\Noah\advanced-project---pcs03\Student UI\Student UI\bin\Debug\Student UI.exe.config
+C:\Users\Noah\advanced-project---pcs03\Student UI\Student UI\bin\Debug\Student UI.exe
+C:\Users\Noah\advanced-project---pcs03\Student UI\Student UI\bin\Debug\Student UI.pdb
+C:\Users\Noah\advanced-project---pcs03\Student UI\Student UI\obj\Debug\Student UI.csprojAssemblyReference.cache
+C:\Users\Noah\advanced-project---pcs03\Student UI\Student UI\obj\Debug\Student_UI.AdminLog.resources
+C:\Users\Noah\advanced-project---pcs03\Student UI\Student UI\obj\Debug\Student_UI.Authentication.resources
+C:\Users\Noah\advanced-project---pcs03\Student UI\Student UI\obj\Debug\Student_UI.ConnectForm.resources
+C:\Users\Noah\advanced-project---pcs03\Student UI\Student UI\obj\Debug\Student_UI.Rules.resources
+C:\Users\Noah\advanced-project---pcs03\Student UI\Student UI\obj\Debug\Student_UI.Form1.resources
+C:\Users\Noah\advanced-project---pcs03\Student UI\Student UI\obj\Debug\Student_UI.Properties.Resources.resources
+C:\Users\Noah\advanced-project---pcs03\Student UI\Student UI\obj\Debug\Student_UI.StudentList.resources
+C:\Users\Noah\advanced-project---pcs03\Student UI\Student UI\obj\Debug\Student_UI.UpdateInfoForm.resources
+C:\Users\Noah\advanced-project---pcs03\Student UI\Student UI\obj\Debug\Student UI.csproj.GenerateResource.cache
+C:\Users\Noah\advanced-project---pcs03\Student UI\Student UI\obj\Debug\Student UI.csproj.CoreCompileInputs.cache
+C:\Users\Noah\advanced-project---pcs03\Student UI\Student UI\obj\Debug\Student UI.exe
+C:\Users\Noah\advanced-project---pcs03\Student UI\Student UI\obj\Debug\Student UI.pdb

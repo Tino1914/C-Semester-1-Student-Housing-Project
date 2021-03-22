@@ -1,0 +1,32 @@
+C:\Users\Noah\Desktop\Admin UI\PCS03 Project\bin\Debug\Admin UI.exe.config
+C:\Users\Noah\Desktop\Admin UI\PCS03 Project\bin\Debug\Admin UI.exe
+C:\Users\Noah\Desktop\Admin UI\PCS03 Project\bin\Debug\Admin UI.pdb
+C:\Users\Noah\Desktop\Admin UI\PCS03 Project\obj\Debug\Admin UI.csprojAssemblyReference.cache
+C:\Users\Noah\Desktop\Admin UI\PCS03 Project\obj\Debug\Admin_UI.ChangePassword.resources
+C:\Users\Noah\Desktop\Admin UI\PCS03 Project\obj\Debug\Admin_UI.Form1.resources
+C:\Users\Noah\Desktop\Admin UI\PCS03 Project\obj\Debug\Admin_UI.Properties.Resources.resources
+C:\Users\Noah\Desktop\Admin UI\PCS03 Project\obj\Debug\Admin UI.csproj.GenerateResource.cache
+C:\Users\Noah\Desktop\Admin UI\PCS03 Project\obj\Debug\Admin UI.exe
+C:\Users\Noah\Desktop\Admin UI\PCS03 Project\obj\Debug\Admin UI.pdb
+C:\Users\Noah\Desktop\Admin UI\PCS03 Project\obj\Debug\Admin_UI.StudentList.resources
+C:\Users\Noah\Desktop\Admin UI\PCS03 Project\obj\Debug\Admin_UI.ConnectForm.resources
+C:\Users\Noah\Desktop\Admin UI\PCS03 Project\obj\Debug\Admin_UI.UpdateInfoForm.resources
+C:\Users\Noah\Desktop\Admin UI\PCS03 Project\obj\Debug\Admin_UI.RuleEditForm.resources
+C:\Users\Noah\Desktop\Admin UI\PCS03 Project\obj\Debug\Admin_UI.RuleEditFormMOD.resources
+C:\Users\Noah\Desktop\Admin UI\PCS03 Project\obj\Debug\Admin UI.csproj.CoreCompileInputs.cache
+C:\Users\Noah\advanced-project---pcs03\Admin UI\PCS03 Project\bin\Debug\Admin UI.exe.config
+C:\Users\Noah\advanced-project---pcs03\Admin UI\PCS03 Project\bin\Debug\Admin UI.exe
+C:\Users\Noah\advanced-project---pcs03\Admin UI\PCS03 Project\bin\Debug\Admin UI.pdb
+C:\Users\Noah\advanced-project---pcs03\Admin UI\PCS03 Project\obj\Debug\Admin UI.csprojAssemblyReference.cache
+C:\Users\Noah\advanced-project---pcs03\Admin UI\PCS03 Project\obj\Debug\Admin_UI.ChangePassword.resources
+C:\Users\Noah\advanced-project---pcs03\Admin UI\PCS03 Project\obj\Debug\Admin_UI.ConnectForm.resources
+C:\Users\Noah\advanced-project---pcs03\Admin UI\PCS03 Project\obj\Debug\Admin_UI.Form1.resources
+C:\Users\Noah\advanced-project---pcs03\Admin UI\PCS03 Project\obj\Debug\Admin_UI.Properties.Resources.resources
+C:\Users\Noah\advanced-project---pcs03\Admin UI\PCS03 Project\obj\Debug\Admin_UI.RuleEditForm.resources
+C:\Users\Noah\advanced-project---pcs03\Admin UI\PCS03 Project\obj\Debug\Admin_UI.RuleEditFormMOD.resources
+C:\Users\Noah\advanced-project---pcs03\Admin UI\PCS03 Project\obj\Debug\Admin_UI.StudentList.resources
+C:\Users\Noah\advanced-project---pcs03\Admin UI\PCS03 Project\obj\Debug\Admin_UI.UpdateInfoForm.resources
+C:\Users\Noah\advanced-project---pcs03\Admin UI\PCS03 Project\obj\Debug\Admin UI.csproj.GenerateResource.cache
+C:\Users\Noah\advanced-project---pcs03\Admin UI\PCS03 Project\obj\Debug\Admin UI.csproj.CoreCompileInputs.cache
+C:\Users\Noah\advanced-project---pcs03\Admin UI\PCS03 Project\obj\Debug\Admin UI.exe
+C:\Users\Noah\advanced-project---pcs03\Admin UI\PCS03 Project\obj\Debug\Admin UI.pdb
